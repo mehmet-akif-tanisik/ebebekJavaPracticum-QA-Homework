@@ -56,7 +56,7 @@ For this question Selenium used to achieve solution. This was the first time i u
 You can find code here --> <a href="https://www.java.com/" target="_blank">Question 2 Code</a>
 
 #### Question 2 - Output
-<img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticum-QA-Homework\images\outputSS\question2-output.png" alt="bmi-calculator" />
+<img src="images/outputSS/question2-output.png" alt="question 2" />
 
 ### Question 3
 
@@ -65,7 +65,7 @@ For this question Rest Assured used to test api requests and responses.
 You can find code here --> <a href="https://www.java.com/" target="_blank">Question 3 Code</a>
 
 #### Question 3 - Output
-<img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticum-QA-Homework\images\outputSS\rest assured.png" alt="bmi-calculator" />
+<img src="images/outputSS/rest assured.png" alt="question 3" />
 
 ### Question 4
 
@@ -73,13 +73,13 @@ You can find code here --> <a href="https://www.java.com/" target="_blank">Quest
 
 1280x768 has tablet and phone menu at the bottom of the application. But Category Tab is not working. If you click on it, it is going to be selected but Categories are not showing on page.
 
-<img src="images/errorSS/3.png" alt="Java" />
+<img src="images/errorSS/3.png" alt="question 4.1" />
 
 2. Cart Page has blank white box at the bottom of the page.
 
 When I open the https://www.e-bebek.com/ then when I want to go to my Cart as a Guest User. Unexpectedly, there is a white blank box at the bottom of the page.
 
-<a href="https://www.java.com/" target="_blank"><img src="images/errorSS/2.png" alt="Java" height="80" /></a>
+<img src="images/errorSS/2.png" alt="question 4.2" />
 
 
 
@@ -88,9 +88,9 @@ When I open the https://www.e-bebek.com/ then when I want to go to my Cart as a 
 ### Technologies
 
 
-<a href="https://www.java.com/" target="_blank"><img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\java.svg" alt="Java" height="80" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticum-QA-Homework\images\selenium-logo.svg" alt="Java" height="80" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticum-QA-Homework\images\assured.png" alt="Java" height="80" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="images\java.svg" alt="Java" height="80" /></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="images\selenium-logo.svg" alt="Java" height="80" /></a>
+<a href="https://rest-assured.io" target="_blank"><img src="images\assured.png" alt="Java" height="80" /></a>
 
 
 <!-- LICENSE -->
