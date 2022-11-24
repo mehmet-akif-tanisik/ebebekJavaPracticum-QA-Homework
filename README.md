@@ -58,6 +58,8 @@ You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebe
 #### Question 2 - Output
 <img src="images/outputSS/question2-output.png" alt="question 2" />
 
+<hr>
+
 ### Question 3
 
 For this question Rest Assured used to test api requests and responses.
@@ -66,6 +68,8 @@ You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebe
 
 #### Question 3 - Output
 <img src="images/outputSS/rest assured.png" alt="question 3" />
+
+<hr>
 
 ### Question 4
 
@@ -81,7 +85,7 @@ When I open the https://www.e-bebek.com/ then when I want to go to my Cart as a 
 
 <img src="images/errorSS/2.png" alt="question 4.2" />
 
-
+<hr>
 
 
 <!-- TECHNOLOGIES -->
