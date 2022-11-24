@@ -73,7 +73,7 @@ You can find code here --> <a href="https://www.java.com/" target="_blank">Quest
 
 1280x768 has tablet and phone menu at the bottom of the application. But Category Tab is not working. If you click on it, it is going to be selected but Categories are not showing on page.
 
-<a href="https://www.java.com/" target="_blank"><img src="images/errorSS/3.png" alt="Java" height="80" /></a>
+<img src="images/errorSS/3.png" alt="Java" />
 
 2. Cart Page has blank white box at the bottom of the page.
 
