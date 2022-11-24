@@ -53,7 +53,7 @@ If special character added to beginning of the search bar, Can we still find the
 
 For this question Selenium used to achieve solution. This was the first time i used Selenium. However, it was fun to do test automation for ui.
 
-You can find code here --> <a href="https://www.java.com/" target="_blank">Question 2 Code</a>
+You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebekJavaPracticum-QA-Homework/blob/main/src/test/java/seleniumuitest/SeleniumTest.java" target="_blank">Question 2 Code</a>
 
 #### Question 2 - Output
 <img src="images/outputSS/question2-output.png" alt="question 2" />
@@ -62,7 +62,7 @@ You can find code here --> <a href="https://www.java.com/" target="_blank">Quest
 
 For this question Rest Assured used to test api requests and responses.
 
-You can find code here --> <a href="https://www.java.com/" target="_blank">Question 3 Code</a>
+You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebekJavaPracticum-QA-Homework/blob/main/src/test/java/restassuredapitest/RestAssuredTest.java" target="_blank">Question 3 Code</a>
 
 #### Question 3 - Output
 <img src="images/outputSS/rest assured.png" alt="question 3" />
